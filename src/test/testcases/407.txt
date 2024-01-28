@@ -1,0 +1,23 @@
+
+        main: function void() inherit foo{
+            //Case 1:
+            {
+                supper(2,3); 
+            }
+            
+            //Case 2:
+            //a = 1;
+            //supper(a, 1);
+            
+            //Case 3:
+            //a = supper(1,2);
+            
+            //Case 4:
+            //supper(1, 2);
+            //supper("1", 3);
+        }
+        
+        foo: function integer (inherit a: auto, inherit b: auto){
+            
+        }
+        

@@ -1,0 +1,8 @@
+
+        inc : function void () inherit foo{
+            preventDefault(1);
+        }
+        foo: function void(){
+            
+        }
+        

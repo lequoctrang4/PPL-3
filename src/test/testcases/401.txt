@@ -1,0 +1,15 @@
+
+        i:auto = 0;
+        a: array [5] of integer;
+        main: function void(){
+            main:integer = 1;
+        }
+        sum : function auto(c: auto) inherit sum1{
+           supper(1,2,3);
+            
+        }
+        sum1 : function integer(inherit a:integer, inherit b:integer){
+           
+            
+        }
+        

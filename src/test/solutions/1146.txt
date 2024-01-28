@@ -1,0 +1,1 @@
+Type mismatch in statement: CallStmt(bar, FuncCall(foo, []), FloatLit(1.0))

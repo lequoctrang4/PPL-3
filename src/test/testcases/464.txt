@@ -1,0 +1,6 @@
+
+        a: integer = 1;
+        inc : function void (){
+            a();
+        }
+        

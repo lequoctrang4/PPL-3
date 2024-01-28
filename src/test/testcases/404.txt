@@ -1,0 +1,9 @@
+
+        a: array [5] of integer;
+        main: function void(){
+            main:integer = 1;
+        }
+        foo: function void (inherit a: integer, a: float) inherit bar {
+            
+        }
+        

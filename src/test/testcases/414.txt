@@ -1,0 +1,5 @@
+
+        inc : function void (){
+                i:integer = a[1];
+            }
+        

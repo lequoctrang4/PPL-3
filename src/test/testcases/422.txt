@@ -1,0 +1,8 @@
+
+        inc : function void () inherit foo{
+            super(1);
+        }
+        foo: function void(a:integer){
+            
+        }
+        

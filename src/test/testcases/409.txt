@@ -1,0 +1,9 @@
+
+        main: function void(c: integer) inherit func{
+            super(1,2);
+            super(1,2);
+        }
+        func :function auto (inherit a: auto, inherit b :auto){
+            
+        }
+        

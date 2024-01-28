@@ -1,0 +1,8 @@
+
+        inc : function void () inherit foo{
+                
+        }
+        foo: function integer(inherit a :integer){
+            
+        }
+        

@@ -1,0 +1,10 @@
+
+        main: function void(a: integer) inherit func{
+            
+        }
+        func :function auto (inherit a: auto, inherit b :auto){
+            
+        }
+        
+        
+        

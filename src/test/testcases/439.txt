@@ -1,0 +1,6 @@
+ 
+            foo:auto = 1;
+            main :function void(a: integer, b:integer) inherit foo{
+                
+            }
+        

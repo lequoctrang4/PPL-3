@@ -1,0 +1,8 @@
+
+        inc : function void (){
+            foo(1);
+        }
+        foo: function void(){
+            
+        }
+        

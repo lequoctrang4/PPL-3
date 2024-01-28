@@ -1,0 +1,14 @@
+
+        main: function void() {
+
+        }
+        func :function float (){
+            if (true){
+                return 1;
+            }
+            else if (false){
+                return 3;
+            }
+            return "12";
+        }
+        

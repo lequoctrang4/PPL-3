@@ -1,0 +1,7 @@
+
+        inc : function void () inherit foo{
+        }
+        foo: function void(){
+            
+        }
+        

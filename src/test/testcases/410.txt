@@ -1,0 +1,15 @@
+
+        main: function void(c: integer) inherit func{
+            preventDefault();
+            func(1,2);
+            d:integer = func(1,2);
+        }
+        func :function auto (inherit a: auto, inherit b :auto){
+            
+        
+        }
+        func1 :function auto (inherit a: auto, inherit b :auto){
+            func("1",2);
+        }
+        
+        

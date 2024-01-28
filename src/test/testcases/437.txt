@@ -1,0 +1,21 @@
+ 
+            main:function void(){
+                if (a){
+                    if(c){
+                        for(i = 2, i < 5, i /2){
+                            
+                        }
+                    }
+                }
+                else if(b){
+                    if(d){
+                        
+                    }
+                }
+                else{
+                    {
+                        
+                    }
+                }
+            }
+        

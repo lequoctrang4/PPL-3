@@ -1,0 +1,11 @@
+ 
+        foo: function integer (a:auto,b:auto) inherit bar{
+                super(1);
+                c=1;
+                a=1;
+                b=1;
+            }
+            bar:function void (inherit c:auto){
+            
+            }
+        

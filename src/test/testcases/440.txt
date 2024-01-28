@@ -1,0 +1,8 @@
+ 
+            foo: function integer(){
+            }
+            main :function void(a: integer, b:integer) inherit foo{
+                foo : integer = 1;
+                c : integer = foo();
+            }
+        

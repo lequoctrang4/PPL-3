@@ -1,0 +1,13 @@
+
+        a: array [5] of integer;
+        main: function void(){
+        }
+        x: function auto(){
+            
+        } 
+
+        foo:function void() {
+            //x: integer = x();
+            a1: auto = x() + x();
+        }
+        
